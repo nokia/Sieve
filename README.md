@@ -27,3 +27,8 @@ Joerg Thalheim, Antonio Rodrigues, Istemi Ekin Akkus, Pramod Bhatotia, Ruichuan 
 To appear in the Proceedings of the ACM/IFIP/USENIX Middleware 2017, Middleware2017, Las Vegas, NV, USA, Dec 11-15, 2017.
 
 This project was released for academic purposes, and may or may not be maintained actively.
+
+
+## License
+
+This project is licensed under the Creative Commons Attribution Non Commercial 4.0 International license - see the [LICENSE](https://github.com/nokia/Sieve/blob/master/LICENSE.md).
